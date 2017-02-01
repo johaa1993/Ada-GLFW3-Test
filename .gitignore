@@ -1,8 +1,9 @@
+*.cswi
+*.dll
 *.o
 *.ali
 *.exe
 *.bexch
-*.bat
 *.cgpr
 *.lexch
 *.db
@@ -14,3 +15,4 @@
 *.xml
 *.TMP
 b_*
+b~*
